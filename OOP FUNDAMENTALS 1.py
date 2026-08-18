@@ -2,5 +2,5 @@ class student:
     name = "Suyash"
     def __init__(self):
         print("Suyash is Student")
-obj = student
+obj =student
 print(student)
