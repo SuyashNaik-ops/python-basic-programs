@@ -57,29 +57,7 @@ The goal of this repository is to build a **strong foundation in Python programm
 * **Language:** Python
 * **Editor:** VS Code / PyCharm
 
-## 🚀 Getting Started
-
-Clone the repository:
-
-```bash
-git clone <your-repository-url>
-```
-
-Navigate to the project:
-
-```bash
-cd Python-Basic-Programs
-```
-
-Run any Python file:
-
-```bash
-python filename.py
-```
-
-## 📈 Learning Progress
-
-This repository is part of my journey to strengthen my Python fundamentals and prepare for **Data Structures & Algorithms, Data Science, and Machine Learning**.
+lgorithms, Data Science, and Machine Learning**.
 
 ---
 
