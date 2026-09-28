@@ -29,7 +29,7 @@ A collection of beginner-friendly Python programs created while learning and pra
 * Number-based Programs
 * Pattern Programs
 
-## 📂 Programs
+ 📂 Programs
 
 Some of the basic programs included:
 
