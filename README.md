@@ -7,7 +7,7 @@ It also includes commonly practiced programs such as Fibonacci series, prime num
 The goal of this repository is to build a strong foundation in Python programming and improve logical thinking step by step.
  🐍 Python Basic Programs
 
-A collection of beginner-friendly Python programs created while learning and practicing **Python fundamentals**.
+A collection of beginner-friendly Python programs created while learning and practicing **Python fundamentals.
 
  📚 Topics Covered
 
