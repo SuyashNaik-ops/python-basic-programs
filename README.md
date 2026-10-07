@@ -15,19 +15,19 @@ A collection of beginner-friendly Python programs created while learning and pra
  Input and Output
  Type Checking & Type Conversion
  Operators
-* Conditional Statements
-* `if`, `elif`, `else`
-* `for` and `while` loops
-* `range()`
-* Strings
-* Lists
-* Tuples
-* Sets
-* Dictionaries
-* Functions
-* Basic Problem Solving
-* Number-based Programs
-* Pattern Programs
+ Conditional Statements
+ `if`, `elif`, `else`
+ `for` and `while` loops
+ `range()`
+ Strings
+ Lists
+ Tuples
+ Sets
+ Dictionaries
+ Functions
+ Basic Problem Solving
+ Number-based Programs
+ Pattern Programs
 
  📂 Programs
 
