@@ -11,10 +11,10 @@ A collection of beginner-friendly Python programs created while learning and pra
 
  📚 Topics Covered
 
-* Variables and Data Types
-* Input and Output
-* Type Checking & Type Conversion
-* Operators
+ Variables and Data Types
+ Input and Output
+ Type Checking & Type Conversion
+ Operators
 * Conditional Statements
 * `if`, `elif`, `else`
 * `for` and `while` loops
